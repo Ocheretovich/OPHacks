@@ -1,5 +1,5 @@
 ## OPHacks - DAOConnect 🚀
-![GitHub deployments](https://img.shields.io/github/deployments/MukulKolpe/OPHacks/production) <a href="https://github.com/MukulKolpe/OPHacks"><img src="https://github.com/Ocheretovich/OPHacks/blob/main/LICENSE"></img></a>
+![GitHub deployments](https://img.shields.io/github/deployments/MukulKolpe/OPHacks/production) <a href="https://github.com/Ocheretovich/OPHacks/blob/main/LICENSE"><img src="https://github.com/Ocheretovich/OPHacks/blob/main/LICENSE"></img></a>
 
 
 
